@@ -1,0 +1,12 @@
+# Tables de correspondance : contiennent les VRAIES données
+*.table.json
+table.json
+# Sorties et fichiers de test
+*.anon.txt
+test.txt
+# Python
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.DS_Store

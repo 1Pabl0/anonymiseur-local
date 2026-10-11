@@ -1,0 +1,6 @@
+# Le moteur de règles n'a aucune dépendance.
+# Détection des noms/organisations/lieux (recommandé) :
+spacy>=3.7
+# Puis : python -m spacy download fr_core_news_md
+# Pour lancer les tests :
+pytest>=8
